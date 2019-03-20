@@ -1,0 +1,34 @@
+.container{
+	
+}
+.name{
+	text-transform: uppercase;
+}
+ul li {
+	list-style: none;
+	display: inline-block;
+	
+}
+
+
+
+.projects{
+	font-size: 12px;
+}
+.tools li{
+	margin: 5px;
+}
+.first{
+	background-color: #12bd051f;
+}
+.second{
+	background-color: #0ae4ec17;
+}
+
+.third{
+	background-color: #49e0614d;
+}
+.gap{
+	height: 2px;
+	background-color: #fdf9f900;
+}
