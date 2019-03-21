@@ -19,7 +19,7 @@ ul li {
 	margin: 5px;
 }
 .first{
-	background-color: #12bd051f;
+	background-color: #c9c2d2a3;
 }
 .second{
 	background-color: #0ae4ec17;
@@ -33,6 +33,15 @@ ul li {
 	background-color: #fdf9f900;
 }
 
-.abc{
-	background-color: white;
+.single{
+	height:100px;
+}
+
+.project{
+	height: 100%;
+	width: 100%;
+}
+
+.custom-height{
+	height: 140px;
 }
